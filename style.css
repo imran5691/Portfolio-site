@@ -1,0 +1,12 @@
+ *{
+    font-family: 'poppins', sans-serif;
+ }
+ .img{
+   height: 50%;
+   display: flex;
+   justify-content: right;
+   align-items: right;
+   width: 400px;
+   clip-path: circle();
+   float: right;
+ }
